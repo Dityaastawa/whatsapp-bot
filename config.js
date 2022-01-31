@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281284760551', '6281284760551'] // Letakan nomor kamu disini
+global.owner = ['6285237596750', '6285237596750'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -41,10 +41,10 @@ global.APIKeys = { // APIKey nya disini
 
 
 // Sticker WM
-global.packname = '© erza bot'
-global.author = 'ig @_sekhaa'
+global.packname = '© ditya botz'
+global.author = 'by dityaastawa'
 
-global.wm = '© reysekha'
+global.wm = '© dityaastawa'
 global.wait = '⏳ tunggu permintaan kamu sedang di proses...'
 global.eror = '× Upss Erorr silahkan lapor owner'
 global.benar = '✓'
